@@ -8,7 +8,7 @@ A sleek and responsive Quiz Application built using **React**, **TypeScript**, a
 
 | Quiz View | Result Summary | Question Review |
 |-----------|----------------|-----------------|
-| ![Quiz View](../quiz-app/src//assets/quiz-view.png) | ![Result Summary](../quiz-app//src/assets/result-summary.png) | ![Review](../quiz-app//src/assets/question-review.png) |
+| ![Quiz View](./src/assets/quiz-view.png) | ![Result Summary](./src//assets/result-summary.png) | ![Review](./src/assets/question-review.png) |
 
 
 ---
